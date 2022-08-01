@@ -1,0 +1,9 @@
+Alice bits,Alice bases,Eve,Bob bases,Bob bits,Eve bits
+0,Y,Clones,X,,
+0,X,Clones,X,0,1
+1,Y,Clones,X,,
+1,Y,Clones,Y,1,0
+0,Y,Clones,X,,
+0,Y,Clones,X,,
+1,Y,Clones,X,,
+0,X,Clones,X,0,0
