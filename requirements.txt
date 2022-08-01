@@ -1,4 +1,4 @@
-voila==0.3
+voila
 voila-material
 pandas
 ipywidgets
